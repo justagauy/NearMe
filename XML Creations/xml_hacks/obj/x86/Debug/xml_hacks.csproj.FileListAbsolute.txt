@@ -1,0 +1,5 @@
+c:\users\encoded\documents\visual studio 2010\Projects\xml_hacks\xml_hacks\bin\Debug\xml_hacks.exe
+c:\users\encoded\documents\visual studio 2010\Projects\xml_hacks\xml_hacks\bin\Debug\xml_hacks.pdb
+c:\users\encoded\documents\visual studio 2010\Projects\xml_hacks\xml_hacks\obj\x86\Debug\xml_hacks.exe
+c:\users\encoded\documents\visual studio 2010\Projects\xml_hacks\xml_hacks\obj\x86\Debug\xml_hacks.pdb
+C:\Users\David\Downloads\xml_hacks\xml_hacks\xml_hacks\obj\x86\Debug\xml_hacks.exe
