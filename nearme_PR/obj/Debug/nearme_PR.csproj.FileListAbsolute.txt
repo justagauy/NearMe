@@ -1,0 +1,26 @@
+c:\users\ramon\documents\visual studio 2012\Projects\nearme_PR\nearme_PR\bin\nearme_PR.dll
+c:\users\ramon\documents\visual studio 2012\Projects\nearme_PR\nearme_PR\bin\nearme_PR.pdb
+c:\users\ramon\documents\visual studio 2012\Projects\nearme_PR\nearme_PR\obj\Debug\nearme_PR.csprojResolveAssemblyReference.cache
+c:\users\ramon\documents\visual studio 2012\Projects\nearme_PR\nearme_PR\obj\Debug\nearme_PR.dll
+c:\users\ramon\documents\visual studio 2012\Projects\nearme_PR\nearme_PR\obj\Debug\nearme_PR.pdb
+C:\Users\David\Desktop\nearme_PR LASTR\nearme_PR\obj\Debug\nearme_PR.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\nearme_PR LASTR\nearme_PR\obj\Debug\nearme_PR.dll
+C:\Users\David\Desktop\nearme_PR LASTR\nearme_PR\bin\nearme_PR.dll
+C:\Users\David\Desktop\nearme_PR LASTR\nearme_PR\bin\nearme_PR.pdb
+C:\Users\David\Desktop\nearme_PR LASTR\nearme_PR\obj\Debug\nearme_PR.pdb
+C:\Users\David\Desktop\nearme_PR LASTR - Copy\nearme_PR\bin\nearme_PR.dll
+C:\Users\David\Desktop\nearme_PR LASTR - Copy\nearme_PR\bin\nearme_PR.pdb
+C:\Users\David\Desktop\nearme_PR LASTR - Copy\nearme_PR\obj\Debug\nearme_PR.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\nearme_PR LASTR - Copy\nearme_PR\obj\Debug\nearme_PR.dll
+C:\Users\David\Desktop\nearme_PR LASTR - Copy\nearme_PR\obj\Debug\nearme_PR.pdb
+C:\Users\David\Desktop\nearme_PR LASTR - Copy\nearme_PR\bin\Test.aspx
+C:\Users\David\Desktop\nearme_PR LASTR - Copy\nearme_PR\bin\Test.aspx.cs
+C:\Users\David\Desktop\nearme_PR LASTR - Copy\nearme_PR\bin\Test.aspx.designer.cs
+C:\Users\juanm_000\Documents\My Projects\Hackaton\2014\Project\nearme_PR LASTR\nearme_PR\bin\Test.aspx
+C:\Users\juanm_000\Documents\My Projects\Hackaton\2014\Project\nearme_PR LASTR\nearme_PR\bin\Test.aspx.cs
+C:\Users\juanm_000\Documents\My Projects\Hackaton\2014\Project\nearme_PR LASTR\nearme_PR\bin\Test.aspx.designer.cs
+C:\Users\juanm_000\Documents\My Projects\Hackaton\2014\Project\nearme_PR LASTR\nearme_PR\bin\nearme_PR.dll
+C:\Users\juanm_000\Documents\My Projects\Hackaton\2014\Project\nearme_PR LASTR\nearme_PR\bin\nearme_PR.pdb
+C:\Users\juanm_000\Documents\My Projects\Hackaton\2014\Project\nearme_PR LASTR\nearme_PR\obj\Debug\nearme_PR.csprojResolveAssemblyReference.cache
+C:\Users\juanm_000\Documents\My Projects\Hackaton\2014\Project\nearme_PR LASTR\nearme_PR\obj\Debug\nearme_PR.dll
+C:\Users\juanm_000\Documents\My Projects\Hackaton\2014\Project\nearme_PR LASTR\nearme_PR\obj\Debug\nearme_PR.pdb

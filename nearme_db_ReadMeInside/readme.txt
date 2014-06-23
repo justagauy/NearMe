@@ -1,0 +1,1 @@
+Rename the folder "nearme_db_ReadMeInside" to nearme and put it into My Documents.
